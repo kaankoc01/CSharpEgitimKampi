@@ -10,6 +10,8 @@ namespace _07_ForeachLoop
     {
         static void Main(string[] args)
         {
+            //101 bitti.
+
             #region foeach Döngüsü
             //Foreach(1;2;3;4)
             //1 depişken türü
