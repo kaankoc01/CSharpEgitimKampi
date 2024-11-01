@@ -11,7 +11,6 @@ Amaç: Farklı veri türlerinde değişkenler oluşturmak.
 Detaylar: int, string, double, bool gibi veri türlerini keşfettim. Değişken tanımlama ve veri tipleri üzerinde işlem yapmayı öğrendim. 
 
 ✨ Proje 3: Diziler (Arrays) 🧩
-
 Amaç: Dizi yapıları ile birden fazla veriyi depolamak.
 Detaylar: Farklı veri türlerinde diziler tanımlayıp, döngüler ile dizilerdeki verileri işlemeyi deneyimledim. 
 
